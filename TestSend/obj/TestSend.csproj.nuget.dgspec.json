@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\alber\\Music\\Technivation\\Practice Projects\\Send Emails\\EmailAlert\\TestSend\\TestSend.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\alber\\Music\\Technivation\\Practice Projects\\Send Emails\\EmailAlert\\TestSend\\TestSend.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\alber\\Music\\Technivation\\Practice Projects\\Send Emails\\EmailAlert\\TestSend\\TestSend.csproj",
+        "projectName": "TestSend",
+        "projectPath": "C:\\Users\\alber\\Music\\Technivation\\Practice Projects\\Send Emails\\EmailAlert\\TestSend\\TestSend.csproj",
+        "packagesPath": "C:\\Users\\alber\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\alber\\Music\\Technivation\\Practice Projects\\Send Emails\\EmailAlert\\TestSend\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\alber\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "SendGrid": {
+              "target": "Package",
+              "version": "[9.11.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

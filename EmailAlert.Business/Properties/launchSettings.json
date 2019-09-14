@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "EmailAlert.Business": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "Key": "Value",
+        "SENDGRID_API_KEY": "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"
+      }
+    }
+  }
+}

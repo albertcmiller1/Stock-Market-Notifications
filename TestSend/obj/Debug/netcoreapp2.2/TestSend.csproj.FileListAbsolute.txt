@@ -1,0 +1,11 @@
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\bin\Debug\netcoreapp2.2\TestSend.deps.json
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\bin\Debug\netcoreapp2.2\TestSend.runtimeconfig.json
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\bin\Debug\netcoreapp2.2\TestSend.runtimeconfig.dev.json
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\bin\Debug\netcoreapp2.2\TestSend.dll
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\obj\Debug\netcoreapp2.2\TestSend.csproj.CoreCompileInputs.cache
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\obj\Debug\netcoreapp2.2\TestSend.AssemblyInfoInputs.cache
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\obj\Debug\netcoreapp2.2\TestSend.AssemblyInfo.cs
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\bin\Debug\netcoreapp2.2\TestSend.pdb
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\obj\Debug\netcoreapp2.2\TestSend.csprojAssemblyReference.cache
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\obj\Debug\netcoreapp2.2\TestSend.dll
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\TestSend\obj\Debug\netcoreapp2.2\TestSend.pdb

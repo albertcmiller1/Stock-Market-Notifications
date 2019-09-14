@@ -1,0 +1,14 @@
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\bin\Debug\netcoreapp2.2\EmailAlert.Data.deps.json
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\bin\Debug\netcoreapp2.2\EmailAlert.Data.dll
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\obj\Debug\netcoreapp2.2\EmailAlert.Data.csprojAssemblyReference.cache
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\obj\Debug\netcoreapp2.2\EmailAlert.Data.csproj.CoreCompileInputs.cache
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\obj\Debug\netcoreapp2.2\EmailAlert.Data.AssemblyInfoInputs.cache
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\obj\Debug\netcoreapp2.2\EmailAlert.Data.AssemblyInfo.cs
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\bin\Debug\netcoreapp2.2\EmailAlert.Data.runtimeconfig.json
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\bin\Debug\netcoreapp2.2\EmailAlert.Data.runtimeconfig.dev.json
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\bin\Debug\netcoreapp2.2\EmailAlert.Data.pdb
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\bin\Debug\netcoreapp2.2\EmailAlert.Domain.dll
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\bin\Debug\netcoreapp2.2\EmailAlert.Domain.pdb
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\obj\Debug\netcoreapp2.2\EmailAlert.Data.csproj.CopyComplete
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\obj\Debug\netcoreapp2.2\EmailAlert.Data.dll
+C:\Users\alber\Music\Technivation\Practice Projects\Send Emails\EmailAlert\EmailAlert.Data\obj\Debug\netcoreapp2.2\EmailAlert.Data.pdb
